@@ -2,26 +2,26 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue)
 
-![Welcome GIF](https://yourcustomgifurl.com/welcome.gif)
+![Welcome GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
 ## About Me
 
 I'm a passionate developer with an interest in [Your Interests]. I love to [Your Hobbies or Activities].
 
-![About Me GIF](https://yourcustomgifurl.com/aboutme.gif)
+![About Me GIF](https://media.giphy.com/media/l4FGz9O3eCnftvZFm/giphy.gif)
 
 ## 🔧 Technologies & Tools
 
-![Technologies GIF](https://yourcustomgifurl.com/technologies.gif)
+![Technologies GIF](https://media.giphy.com/media/3oKIPwoeGErMmaI43S/giphy.gif)
 
-![Your Language 1](https://img.shields.io/badge/Language-YourLanguage1-informational?style=flat&logo=yourlanguage1&color=2bbc8a)
-![Your Language 2](https://img.shields.io/badge/Language-YourLanguage2-informational?style=flat&logo=yourlanguage2&color=2bbc8a)
-![Your Tool 1](https://img.shields.io/badge/Tool-YourTool1-informational?style=flat&logo=yourtool1&color=2bbc8a)
-![Your Tool 2](https://img.shields.io/badge/Tool-YourTool2-informational?style=flat&logo=yourtool2&color=2bbc8a)
+![Python](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&color=2bbc8a)
+![JavaScript](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&color=2bbc8a)
+![VS Code](https://img.shields.io/badge/Tool-VSCode-informational?style=flat&logo=visual-studio-code&color=2bbc8a)
+![Git](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&color=2bbc8a)
 
 ## 🌱 Currently Learning
 
-![Learning GIF](https://yourcustomgifurl.com/learning.gif)
+![Learning GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
 - [New Technology or Tool]
 - [New Language or Framework]
@@ -33,13 +33,13 @@ I'm a passionate developer with an interest in [Your Interests]. I love to [Your
 
 ## 📫 How to reach me
 
-![Contact GIF](https://yourcustomgifurl.com/contact.gif)
+![Contact GIF](https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif)
 
 - [Email](mailto:your-email@example.com)
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)
 - [Twitter](https://twitter.com/yourprofile)
 
-![Goodbye GIF](https://yourcustomgifurl.com/goodbye.gif)
+![Goodbye GIF](https://media.giphy.com/media/3o7buirYcmV5nSwIRW/giphy.gif)
 
 ---
 
